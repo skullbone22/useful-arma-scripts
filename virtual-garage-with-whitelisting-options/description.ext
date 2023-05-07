@@ -1,0 +1,13 @@
+#include ".\functions\garageScripts\defines.hpp"
+#include ".\functions\garageScripts\control.hpp"
+
+
+class CfgFunctions {
+	class garageScripts
+	{
+		class garageScripts
+		{
+			class vehicleGarageOpen{};
+		};
+	};
+};
